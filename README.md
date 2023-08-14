@@ -1,4 +1,5 @@
 StringSplitter Class README
+
 The StringSplitter class allows you to split a given input string into fields using a specified delimiter. This can be particularly useful when you need to break down a string into meaningful parts based on a separator.
 
 Table of Contents
