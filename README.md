@@ -8,7 +8,7 @@ Introduction
 Usage
 Class Details
 Example
-Contributions
+
 
 ## Introduction 
 
@@ -22,10 +22,11 @@ Run the Python script using a terminal or command prompt.
 Input a delimiter when prompted.
 Provide an input string that you want to split.
 The program will output the fields of the split string based on the specified delimiter.
-Class Details
+
+## Class Details
 The class StringSplitter has the following attributes and methods:
 
-## Attributes
+Attributes
 delimiter: The delimiter used to split the input string into fields. Initialized to None by default.
 ## Methods
 __init__(self): Constructor method to initialize the instance. The delimiter attribute is set to None initially.
